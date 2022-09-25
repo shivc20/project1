@@ -1,4 +1,4 @@
-package framework;
+package highlightext.framework;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
